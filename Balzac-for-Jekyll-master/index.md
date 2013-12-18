@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Posts"
-tags: 
+tags: [michael crawford, mcgill, physics, mathematics, mathematical physics, mcgill]
 image: 
   feature:
 ---
