@@ -8,9 +8,9 @@ description:      A personal website highlighting my work in the academic commun
 owner:
   name:           Michael Crawford
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
+  bio:            
   email:          michael.crawford@mail.mcgill.ca
-  twitter:        michaelcrwfrd       
+  twitter:        michaelcrwfrd   
   github:         mcrwfrd      
  
   
@@ -24,7 +24,7 @@ links:
   - title: Blog
     url: 
   - title: Publications
-    url: h
+    url: 
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
