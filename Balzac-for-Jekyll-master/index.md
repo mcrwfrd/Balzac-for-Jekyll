@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Michael Crawford"
-tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: la.jpg
+title: "Posts"
+tags: [michael crawford, physics, mathematics, outreach, mcgill, montreal]
+image: la.jpg
+  feature:
 ---
