@@ -418,14 +418,7 @@ input {
 }
 
 /* Header */
-header {
-  width: 100%;
-  background: #3b3b3b;
-  height: 320px;
-  font-size: 22px;
-  color: #f9f9f9;
-  position: relative;
-}
+
 header.site-header {
   padding: 20px 0;
   position: absolute;
@@ -480,9 +473,9 @@ header.site-header hgroup {
 }
 header.site-header hgroup h1 {
   font-weight: 700;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 100%;
-  color: #24536b;
+  color: #1F07AB;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
