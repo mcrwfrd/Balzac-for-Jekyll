@@ -432,6 +432,8 @@ header.site-header .wrap {
 }
 
 #bump .darken a {
+   background: #3b3b3b;
+  height: 320px;
   color: #3b3b3b;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
