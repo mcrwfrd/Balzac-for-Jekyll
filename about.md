@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/index.html
 title: About me
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
+description: Desrcibe yourself. Maybe add stuff in about your coffee experience, and interests outside of the academic community. 
 tags: [michael crawford, about, physics, mathematics]
 image:
   feature: 
