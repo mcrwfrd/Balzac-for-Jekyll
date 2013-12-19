@@ -474,6 +474,8 @@ header.site-header hgroup {
   padding-left: 5vw;
 }
 header.site-header hgroup h1 {
+   background: #3b3b3b;
+  height: 320px;
   font-weight: 700;
   font-size: 20px;
   line-height: 100%;
