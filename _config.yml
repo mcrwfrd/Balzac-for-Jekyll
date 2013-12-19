@@ -1,20 +1,20 @@
 title:            Michael Crawford
-tagline:          A beautiful theme.
-description:      Describe your website.
+tagline:          
+description:      A professional blog about Mathematics, Physics, and related topics. 
 #Comment out url when working locally to resolve base urls correctly
 url: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Michael Crawford    
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
+  email:          michael.crawford@mail.mcgill.ca
+  twitter:        michaelcrwfrd     
+  github:         mcrwfrd      
+  instagram:           
+  dribbble:       
+  disqus:         
   # Plug in your disqus shortname!
   
 
@@ -23,12 +23,17 @@ owner:
 links:
   - title: About
     url: /about
+  - title: Publications
+    url: 
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/mcrwfrd/mcrwfrd.github.io
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Twitter
+    url: https://twitter.com/michaelcrwfrd
     external: true
+  #- title: Cole Who?
+   # url: http://coletownsend.com
+    #external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
