@@ -420,6 +420,8 @@ input {
 /* Header */
 
 header.site-header {
+   background: #3b3b3b;
+  height: 320px;
   padding: 20px 0;
   position: absolute;
   width: 100%;
