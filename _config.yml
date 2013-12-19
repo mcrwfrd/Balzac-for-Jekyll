@@ -2,7 +2,7 @@ title:            Michael Crawford
 tagline:          
 description:      A professional blog about Mathematics, Physics, and related topics. 
 #Comment out url when working locally to resolve base urls correctly
-url: localhost:4000
+#url:
 
 # Owner/author information
 owner:
