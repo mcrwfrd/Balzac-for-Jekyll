@@ -827,7 +827,7 @@ footer {
 }
 footer section {
   display: inline;
-  float: left;
+  float: center;
   width: 97%;
   margin: 0 1.5%;
   display: block;
