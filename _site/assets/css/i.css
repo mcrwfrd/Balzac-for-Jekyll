@@ -42,6 +42,16 @@ q:before, q:after {
   outline: none;
 }
 
+img.center { 
+
+    display: block; 
+
+    margin-left: auto; 
+
+    margin-right: auto;
+
+}
+
 ins {
   text-decoration: none;
 }
