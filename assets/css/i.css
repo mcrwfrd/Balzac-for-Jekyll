@@ -420,7 +420,7 @@ input {
 /* Header */
 
 header.site-header {
-   background: #3b3b3b;
+   background: #151515;
   height: 75px;
   padding: 20px 0;
   position: absolute;
@@ -432,8 +432,8 @@ header.site-header .wrap {
 }
 
 #bump .darken a {
-   background: #3b3b3b;
-  height: 320px;
+   background: #151515;
+  height: 75px;
   color: #3b3b3b;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
@@ -476,8 +476,8 @@ header.site-header hgroup {
   padding-left: 5vw;
 }
 header.site-header hgroup h1 {
-   background: #3b3b3b;
-  height: 320px;
+   background: #151515;
+  height: 75px;
   font-weight: 700;
   font-size: 20px;
   line-height: 100%;
