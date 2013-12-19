@@ -1,13 +1,13 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
+title: About me
 description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+tags: [michael crawford, about, physics, mathematics]
 image:
-  feature: soft-trees.jpg
+  feature: 
 ---
-
+<!--
 This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
 
 ### Features
@@ -24,3 +24,4 @@ I utilized my own HTML templates, but had no prior knowledge of liquid nor the r
 
 ### The Name
 Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+-->
