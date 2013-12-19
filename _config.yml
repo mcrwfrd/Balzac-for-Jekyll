@@ -1,5 +1,5 @@
 title:            Michael Crawford
-tagline:          
+tagline:          Foo
 description:      A professional blog about mathematics, physics, and related ideas. 
 #Comment out url when working locally to resolve base urls correctly
 #url: mcrwfrd.github.io
@@ -8,13 +8,13 @@ description:      A professional blog about mathematics, physics, and related id
 owner:
   name:           Michael Crawford
   avatar:         avatar.png
-  bio:            
+  bio:            Foo
   email:          michael.crawford@mail.mcgill.ca
   twitter:        michaelcrwfrd
   github:         mcrwfrd      
   instagram:           
   dribbble:       
-  disqus:         mcrwfrd
+  disqus:         
   # Plug in your disqus shortname!
   
 
@@ -24,7 +24,7 @@ links:
   - title: About
     url: /about
     
-  -Publications
+  -title: Publications
     #url: 
     
   -title: Twitter 
