@@ -420,8 +420,6 @@ input {
 /* Header */
 
 header.site-header {
-   background: #3b3b3b;
-  height: 60px;
   padding: 20px 0;
   position: absolute;
   width: 100%;
@@ -432,8 +430,6 @@ header.site-header .wrap {
 }
 
 #bump .darken a {
-   background: #3b3b3b;
-  height: 60px;
   color: #3b3b3b;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
