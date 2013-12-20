@@ -13,11 +13,7 @@ This is built on Semantic.gs grid framework which I edited a bit to make it flui
 ### About me
 
 ### Events
-* 
-* 
-* 
-* 
-* 
+* [Seminars in Undergraduate Mathematics in Montreal](http://summ.math.uqam.ca/?lang=en)
 
 ### Publications
 I am curretnly working on my first official academic publication which features the application of group theory and projective geometry in the world of quantum mechanical symmetries.  
