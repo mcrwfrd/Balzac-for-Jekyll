@@ -23,20 +23,22 @@ owner:
 links:
   - title: About
     url: /about
+  -title: Blog
+    url: /blog
   - title: Publications
-    url: 
-  - title: Github
-    url: https://github.com/mcrwfrd/mcrwfrd.github.io
-    external: true
-  - title: Twitter
-    url: https://twitter.com/michaelcrwfrd
-    external: true
+    url: /publications 
+  #- title: Github
+   # url: https://github.com/mcrwfrd/mcrwfrd.github.io
+    #external: true
+ # - title: Twitter
+  #  url: https://twitter.com/michaelcrwfrd
+   # external: true
   #- title: Cole Who?
    # url: http://coletownsend.com
     #external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Montreal
 future:      true
 pygments:    true
 markdown:    kramdown
