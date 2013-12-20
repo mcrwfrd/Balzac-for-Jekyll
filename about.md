@@ -9,8 +9,11 @@ feature:
 ---
 
 ### About me
+I am currently completing a joint Mathematics and Physics degree at McGill University in Montreal, Canada. My interest is usually piqued most by topics in the area of mathematical physics, including complex analysis, topology, group theory, quantum mechanics, and quantum information theory. But for now, I am trying to keep things as general as possible before specializing in a masters and/or a PhD degree. Here, you can view my cv. 
 
-### Events (past and future)
+When I'm not working on one of the above subjects, I tend to dabble in areas such as computer programming, machine learning, and artificial intelligence. While away from my desk, I can be found jogging, rock climbing, or socializing at one of Montreal's many beautiful cafes. 
+
+### Events (past, present, and future)
 * [Seminars in Undergraduate Mathematics in Montreal 2014](http://summ.math.uqam.ca/?lang=en)
 * [McGill Undergraduate Research Conference 2013](https://www.mcgill.ca/science/research/ours/urc/2013)
 * [McGill Undergraduate Research Conference 2012](http://www.mcgill.ca/science/research/ours/urc/2012)
