@@ -3,6 +3,9 @@ layout: about
 permalink: /about/index.html
 title: "About" 
 description: Desrcibe yourself. Maybe add stuff in about your coffee experience, and interests outside of the academic community. 
+heading1: About me
+heading2: Events
+heading3: Publications
 tags: [michael crawford, about, physics, mathematics]
 image:
   feature: 
