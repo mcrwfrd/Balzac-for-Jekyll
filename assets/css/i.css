@@ -877,7 +877,7 @@ footer small {
   bottom: 8px;
   font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.1);
+  color: rgb(138, 185, 209);
 }
 footer small a {
   color: rgba(255, 255, 255, 0.3);
