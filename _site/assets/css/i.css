@@ -145,6 +145,8 @@ p {
 .intro2{
  font-size: 12px;
  line-height: 1.4em;
+ text-align: center;
+ text-transform: uppercase
 }
 .post ul li {
   font-size: 22px;
