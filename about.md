@@ -5,7 +5,7 @@ title: About
 description: 
 tags: [michael crawford, about, physics, mathematics]
 image: 
-feature: 
+feature: cliffordTorus.png
 ---
 
 ### About me
