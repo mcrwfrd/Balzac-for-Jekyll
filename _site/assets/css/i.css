@@ -825,6 +825,15 @@ header.site-header nav ul li a:hover {
 }
 
 /* Footer Stuff */
+footerShort {
+  width: 100%;
+  background: #3b3b3b;
+  height: 0px;
+  font-size: 22px;
+  color: #f9f9f9;
+  position: relative;
+}
+
 .push {
   height: 80px !important;
 }
