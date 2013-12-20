@@ -837,7 +837,7 @@ footer {
   color: #f9f9f9;
   position: relative;
 }
-/*
+
 footerTall{
   width: 100%;
   background: #3b3b3b;
@@ -846,7 +846,7 @@ footerTall{
   color: #f9f9f9;
   position: relative;
 }
-*/
+
 footer section {
   display: inline;
   float: left;
