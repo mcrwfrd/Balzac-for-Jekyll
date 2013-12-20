@@ -139,10 +139,13 @@ p {
 }
 
 .intro {
-  font-size: 60px;
+  font-size: 39px;
   line-height: 1.4em;
 }
-
+.intro2{
+ font-size: 12px;
+ line-height: 1.4em;
+}
 .post ul li {
   font-size: 22px;
   line-height: 33px;
