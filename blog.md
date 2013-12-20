@@ -1,6 +1,6 @@
 ---
 layout: blogHome
 permalink: /blog/index.html
-title: "Blog"
+title: "Latest Articles"
 tags: [blog]
 ---
