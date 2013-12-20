@@ -8,12 +8,11 @@ image:
 feature: 
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
-
 ### About me
 
-### Events
-* [Seminars in Undergraduate Mathematics in Montreal](http://summ.math.uqam.ca/?lang=en)
+### Events (past and future)
+* [Seminars in Undergraduate Mathematics in Montreal 2014](http://summ.math.uqam.ca/?lang=en)
+* [McGill Undergraduate Research Conference 2013](https://www.mcgill.ca/science/research/ours/urc/2013)
 
 ### Publications
 I am curretnly working on my first official academic publication which features the application of group theory and projective geometry in the world of quantum mechanical symmetries.  
