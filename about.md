@@ -4,8 +4,8 @@ permalink: /about/index.html
 title: About
 description: 
 tags: [michael crawford, about, physics, mathematics]
-image: 
-feature: cliffordTorus.png
+image: cliffordTorus.png
+feature: 
 ---
 
 ### About me
