@@ -846,7 +846,7 @@ footerShort {
 
 footerShort section {
   display: inline;
-  float: left;
+  float: center;
   width: 97%;
   margin: 0 1.5%;
   display: block;
@@ -877,7 +877,7 @@ footerShort small {
   color: rgb(138, 185, 209);
 }
 footerShort small a {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgb(165, 243, 160);
 }
 footerShort .list-title {
   margin-bottom: 16.5px;
