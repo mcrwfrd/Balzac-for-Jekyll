@@ -19,6 +19,9 @@
             <title>{{page.title}}</title>
             <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
             <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
+            <p class="intro">{% if page.heading1 %}{{ page.heading1 }}{% else %}{{ page.tagline }}{% endif %}</p>
+            <p class="intro">{% if page.heading2 %}{{ page.heading2 }}{% else %}{{ page.tagline }}{% endif %}</p>
+            <p class="intro">{% if page.heading3 %}{{ page.heading3 }}{% else %}{{ page.tagline }}{% endif %}</p>
           </hgroup>
         </header>
 
