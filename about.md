@@ -20,7 +20,7 @@ When I'm not working on one of the above subjects, I tend to dabble in areas suc
 * [National Integrative Research Conference 2012](http://www.nircmcgill.com/2012.php)
 
 ### Publications
-I am curretnly working on my first official academic publication which features the application of group theory and projective geometry in the world of quantum mechanical symmetries.  
+I am currently working on my first official academic publication which features the application of group theory and projective geometry in the world of quantum mechanical symmetries.  
 
 
 
