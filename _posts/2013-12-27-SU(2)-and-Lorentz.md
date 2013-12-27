@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
-title: Relationships between the special unitary group and the Lorentz group
-description: "We’ll introduce the $$ 2 x 2 $$ special unitary group, the Lorentz group, and some close relationships between them. These results have very important physical applications which we will explore in later articles. "
+title: Relationships between the special linear group and the Lorentz group
+description: "We’ll introduce the $$2 x 2$$ special linear group, the Lorentz group, and some close relationships between between the two. These results have very important physical applications which we will explore in later articles."
 categories: articles
 date: 2013-08-17
 image: 
@@ -9,9 +9,9 @@ image:
 published: true
 ---
 
-### $$ SU(2,\mathbb{C}) $$
+### $$SL(2,\mathbb{C})$$
 
-Consider the set of $$ 2 x 2 $$ matrices of determinant one with complex entries, which we will denote $$ SU(2, \mathbb{C}) $$. We claim that this set forms a group under standard matrix multiplication. The $$ 2 x 2 $$ identity matrix has determinant one and has entries in $$ \mathbb{R} \subseteq \mathbb{C} $$, so clearly this clearly the identity element for this set. To show that each element $$ A \in SU(2, \mathbb{C}) $$ has an inverse element, it suffices to recall that \$$ \det A-1 = 1/\det A = 1 $$. To see that this set is closed under matrix multiplication, consider two matrices $$ A, B \in SU(2, \mathbb{C}) $$ and recall that \$$ \det A B = \det A \det B = 1 \cdot 1 = 1. Thus, we conclude that \$$ SU(2, \mathbb{C}) forms a group under matrix multiplication. 
+Consider the set of $$ 2 x 2 $$ matrices of determinant one with complex entries, denoted $$ SL(2, \mathbb{C}) $$. We claim that this set forms a group under standard matrix multiplication. The $$ 2 x 2 $$ identity matrix has determinant one and has entries in $$ \mathbb{R} \subseteq \mathbb{C} $$, so clearly this clearly the identity element for this set. To show that each element $$ A \in SU(2, \mathbb{C}) $$ has an inverse element, it suffices to recall that $$ \det A^{-1} = 1/\det A = 1 $$. To see that this set is closed under matrix multiplication, consider two matrices $$ A, B \in SL(2, \mathbb{C}) $$ and recall that $$ \det A B = \det A \det B = 1 \cdot 1 = 1 $$. Thus, we conclude that \$$ SU(2, \mathbb{C})$$ forms a group under matrix multiplication. 
 
 ### The Lorentz Group
 
