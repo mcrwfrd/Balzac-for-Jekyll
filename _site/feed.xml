@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2013-12-27T13:35:57-05:00</updated>
+<updated>2013-12-27T13:41:40-05:00</updated>
 <id>/</id>
 <author>
   <name>Michael Crawford</name>
@@ -33,6 +33,31 @@
 
 
   &lt;p&gt;&lt;a href=&quot;/articles/test-post&quot;&gt;Test Post&lt;/a&gt; was originally published by Michael Crawford at &lt;a href=&quot;&quot;&gt;Michael Crawford&lt;/a&gt; on August 17, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Relationships between $$ SU(2,\mathbb{C}) $$ and the Lorentz Group]]></title>
+  <link rel="alternate" type="text/html" href="/articles/SU%282%29-and-Lorentz" />
+  <id>/articles/SU(2)-and-Lorentz</id>
+  <published>2013-08-17T00:00:00-04:00</published>
+  <updated>2013-08-17T00:00:00-04:00</updated>
+  <author>
+    <name>Michael Crawford</name>
+    <uri></uri>
+    <email>michael.crawford@mail.mcgill.ca</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;su2c-&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; SU(2,C) &lt;/script&gt;&lt;/h3&gt;
+
+&lt;p&gt;Consider the set of &lt;script type=&quot;math/tex&quot;&gt; 2 x 2 &lt;/script&gt; matrices of determinant one with complex entries, which we will denote &lt;script type=&quot;math/tex&quot;&gt; SU(2, \mathbb{C}) &lt;/script&gt;. We claim that this set forms a group under standard matrix multiplication. The &lt;script type=&quot;math/tex&quot;&gt; 2 x 2 &lt;/script&gt; identity matrix has determinant one and has entries in &lt;script type=&quot;math/tex&quot;&gt; \mathbb{R} \subseteq \mathbb{C} &lt;/script&gt;, so clearly this clearly the identity element for this set. To show that each element &lt;script type=&quot;math/tex&quot;&gt; A \in SU(2, \mathbb{C}) &lt;/script&gt; has an inverse element, it suffices to recall that $$ \det A-1 = 1/\det A = 1 &lt;script type=&quot;math/tex&quot;&gt;. To see that this set is closed under matrix multiplication, consider two matrices &lt;/script&gt; A, B \in SU(2, \mathbb{C}) &lt;script type=&quot;math/tex&quot;&gt; and recall that \&lt;/script&gt; \det A B = \det A \det B = 1 \cdot 1 = 1. Thus, we conclude that $$ SU(2, \mathbb{C}) forms a group under matrix multiplication. &lt;/p&gt;
+
+&lt;h3 id=&quot;the-lorentz-group&quot;&gt;The Lorentz Group&lt;/h3&gt;
+
+&lt;h3 id=&quot;the-homomorphism&quot;&gt;The Homomorphism&lt;/h3&gt;
+
+&lt;h2 id=&quot;the-isomorphism&quot;&gt;The Isomorphism&lt;/h2&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/SU%282%29-and-Lorentz&quot;&gt;Relationships between $$ SU(2,\mathbb{C}) $$ and the Lorentz Group&lt;/a&gt; was originally published by Michael Crawford at &lt;a href=&quot;&quot;&gt;Michael Crawford&lt;/a&gt; on August 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
