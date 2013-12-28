@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2013-12-27T14:06:38-05:00</updated>
+<updated>2013-12-28T10:38:40-05:00</updated>
 <id>/</id>
 <author>
   <name>Michael Crawford</name>
@@ -49,7 +49,7 @@
   </author>
   <content type="html">&lt;h3 id=&quot;sl2mathbbc&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;SL(2,\mathbb{C})&lt;/script&gt;&lt;/h3&gt;
 
-&lt;p&gt;Consider the set of &lt;script type=&quot;math/tex&quot;&gt; 2 \times 2 &lt;/script&gt; matrices of determinant one with complex entries, denoted &lt;script type=&quot;math/tex&quot;&gt; SL(2, \mathbb{C}) &lt;/script&gt;. We claim that this set forms a group under standard matrix multiplication. The &lt;script type=&quot;math/tex&quot;&gt; 2 \times 2 &lt;/script&gt; identity matrix has determinant one and has entries in &lt;script type=&quot;math/tex&quot;&gt; \mathbb{R} \subseteq \mathbb{C} &lt;/script&gt;, so this is clearly the required identity element for this set. To show that each element &lt;script type=&quot;math/tex&quot;&gt; A \in SL(2, \mathbb{C}) &lt;/script&gt; has an inverse element, it suffices to recall that $$ \det A^{-1} = \frac{1}{\det A} = 1 &lt;script type=&quot;math/tex&quot;&gt;. To see that this set is closed under matrix multiplication, consider two matrices &lt;/script&gt; A, B \in SL(2, \mathbb{C}) &lt;script type=&quot;math/tex&quot;&gt; and recall that \&lt;/script&gt; \det A B = \det A \det B = 1 \cdot 1 = 1 &lt;script type=&quot;math/tex&quot;&gt;. Thus, we conclude that \&lt;/script&gt; SL(2, \mathbb{C})$$ forms a group under matrix multiplication. &lt;/p&gt;
+&lt;p&gt;Consider the set of &lt;script type=&quot;math/tex&quot;&gt; 2 \times 2 &lt;/script&gt; matrices of determinant one with complex entries, denoted &lt;script type=&quot;math/tex&quot;&gt; SL(2, \mathbb{C}) &lt;/script&gt;. We claim that this set forms a group under standard matrix multiplication. The &lt;script type=&quot;math/tex&quot;&gt; 2 \times 2 &lt;/script&gt; identity matrix has determinant one and has entries in &lt;script type=&quot;math/tex&quot;&gt; \mathbb{R} \subseteq \mathbb{C} &lt;/script&gt;, so this is clearly the required identity element for this set. To show that each element &lt;script type=&quot;math/tex&quot;&gt; A \in SL(2, \mathbb{C}) &lt;/script&gt; has an inverse element, it suffices to recall that $$ \det A^{-1} = \frac{1}{\det A} = 1 &lt;script type=&quot;math/tex&quot;&gt;. To see that this set is closed under matrix multiplication, consider two matrices &lt;/script&gt; A, B \in SL(2, \mathbb{C}) &lt;script type=&quot;math/tex&quot;&gt; and recall that \&lt;/script&gt; \det A B = \det A \det B = 1 \cdot 1 = 1 &lt;script type=&quot;math/tex&quot;&gt;. Thus, we conclude that &lt;/script&gt; SL(2, \mathbb{C})$$ forms a group under matrix multiplication. &lt;/p&gt;
 
 &lt;h3 id=&quot;the-lorentz-group&quot;&gt;The Lorentz Group&lt;/h3&gt;
 
