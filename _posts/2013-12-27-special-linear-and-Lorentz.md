@@ -19,7 +19,7 @@ To see that this set is closed under matrix multiplication, consider two matrice
 $$ 
 \det A B = \det A \det B = 1 \cdot 1 = 1 
 $$
-Thus, we conclude that $$ SL(2, \mathbb{C})$$ forms a group under matrix multiplication. 
+Finally, we already know that standard matrix multiplication is associative. Thus, we conclude that $$ SL(2, \mathbb{C})$$ forms a group under matrix multiplication. 
 
 ### The Lorentz Group
 
