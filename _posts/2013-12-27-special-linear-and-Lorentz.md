@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Relationships between the special linear group and the Lorentz group
-description: "We’ll introduce the 2 x 2 special linear group, the Lorentz group, and some close relationships between between the two. These results have very important physical applications which we will explore in later articles."
+description: "We’ll introduce both the 2 x 2 special linear group and the Lorentz group and show some close relationships between between the two groups. These relationships have some very important physical applications which we will explore in later articles."
 categories: articles
 date: 2013-08-17
 image: 
