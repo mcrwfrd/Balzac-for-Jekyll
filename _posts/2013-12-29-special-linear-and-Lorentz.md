@@ -43,7 +43,7 @@ $$
 $$
 where 
 $$
-\begin{align*}
+\begin{align}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
   = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
   & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
@@ -56,7 +56,7 @@ $$
       \vdots \\
       y_n
     \end{array} \right)
-\end{align*}
+\end{align}
 $$
 
 Now, we will use this new definition of the Lorentz transformations to show that the set of all Lorentz transformations, denoted $$ L $$ forms a group with standard matrix multiplication as their binary operation. First, we need to show that $$L$$ has an identity element. The natural choice is the $$ 4 \times 4 $$ identity matrix, $$ I_4 $$. To see that $$ I_4 \in L $$, simply observe that 
