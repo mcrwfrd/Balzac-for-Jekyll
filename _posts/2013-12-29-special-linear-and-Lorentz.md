@@ -57,11 +57,11 @@ Now, will use this new definition of the Lorentz transformations to show that th
 $$
 \mathbb{I}^TG\mathbb{I} = \mathbb{I}G\mathbb{I} = \mathbb{I}G = G.
 $$
-The next step is to show that each $$\Lambda \in L$$ has its own inverse element which is itself a member of $$L$$. We first show that such an inverse exists. Since $$\Lambda in L$$, we know that $${\Lambda}^TG\Lambda = G$$. Taking the determinant of both sides, we quickly see that 
+The next step is to show that each $$\Lambda \in L$$ has its own inverse element which is itself a member of $$L$$. We first show that such an inverse exists. Since $$\Lambda in L$$, we know that $${\Lambda}^TG \Lambda = G$$. Taking the determinant of both sides, we quickly see that 
 $$
--1 = \det G = \det {\Lambda}^TG\Lambda = - \cdot \det {\Lambda}^T \det \Lambda = -\left( \det \Lambda \right)^2. 
+-1 = \det G = \det {\Lambda}^TG \Lambda = - \cdot \det {\Lambda}^T \det \Lambda = -\left( \det \Lambda \right)^2. 
 $$
-From this statement, we can conclude that the determinant of any $$\Lambda in L$$ must be non-zero, and thus has an inverse element. To show that this inverse element is in $$L$$, we again start with $${\Lambda}^TG\Lambda = G$$. Left-multiplying this equation by $${{\Lambda}^{-1}}^T$$ and right-multiplying by $${\Lambda}^{-1}$$ gives us 
+From this statement, we can conclude that the determinant of any $$\Lambda in L$$ must be non-zero, and thus has an inverse element. To show that this inverse element is in $$L$$, we again start with $${\Lambda}^TG \Lambda = G$$. Left-multiplying this equation by $${{\Lambda}^{-1}}^T$$ and right-multiplying by $${\Lambda}^{-1}$$ gives us 
 $$
 {{\Lambda}^{-1}}^T G {\Lambda}^{-1} = G.
 $$
