@@ -29,7 +29,7 @@ $$
 $$
 Notice that we're using tensor notation here. This is a convenient way to go about things since our metric has a few nasty minus signs in it. We can deal with these in an elegant fashion by introducing the following subscript notation:
 $$ 
-A_0 = A^0 \quad A_i = -A^i \quad \text{for} \quad i = 1, 2, 3,
+A_0 = A^0 \quad \text{and} \quad A_i = -A^i \quad \text{for} \quad i = 1, 2, 3,
 $$
 so that 
 $$
