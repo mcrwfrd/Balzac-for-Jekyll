@@ -61,7 +61,7 @@ $$
 $$
 From this statement, we can conclude that the determinant of any $$ \Lambda \in L $$ must be non-zero, and thus has an inverse element. To show that this inverse element is in $$ L $$, we again start with $$ {\Lambda} ^T G \Lambda = G $$. Left-multiplying both sides of this equation by $$ \left( {\Lambda}^{-1} \right) ^T $$ and right-multiplying by $$ {\Lambda}^{-1} $$ gives us 
 $$
-\left( {\Lambda}^{-1} \right) ^T G {\Lambda}^{-1} =  \left( {\Lambda}^{-1} \right) ^T {\Lambda} ^T G \Lambda {\Lambda}^{-1} = \left( \Lambda {\Lambda}^{-1} \right) G \Lambda {\Lambda}^{-1} = G
+\left( {\Lambda}^{-1} \right) ^T G {\Lambda}^{-1} =  \left( {\Lambda}^{-1} \right) ^T {\Lambda} ^T G \Lambda {\Lambda}^{-1} = \left( \Lambda {\Lambda}^{-1} \right)^T G ( \Lambda {\Lambda}^{-1} ) = G
 $$
 To show the closure of $$ L $$, consider $$ \Lambda, \Gamma \in L$$ and observe that 
 $$
