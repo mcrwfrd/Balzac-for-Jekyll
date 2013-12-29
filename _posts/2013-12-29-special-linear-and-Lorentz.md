@@ -53,7 +53,7 @@ G =
 		\end{array}
 	\right).
 $$
-Now, will use this new definition of the Lorentz transformations to show that the set of all Lorentz transformations, denoted $$L$$ forms a group with standard matrix multiplication as their binary operation. First, we need to show that $$L$$ has an identity element. The natural choice is the $$4\times4$$ identity matrix, $$\mathbb{I})_4$$. To see that $$\mathbb{I})_4 \in L$$, simply obsererve that 
+Now, will use this new definition of the Lorentz transformations to show that the set of all Lorentz transformations, denoted $$L$$ forms a group with standard matrix multiplication as their binary operation. First, we need to show that $$L$$ has an identity element. The natural choice is the $$4\times4$$ identity matrix, $$\mathbb{I}_4$$. To see that $$\mathbb{I}_4 \in L$$, simply observe that 
 $$
 \mathbb{I}^TG\mathbb{I} = \mathbb{I}G\mathbb{I} = \mathbb{I}G = G.
 $$
@@ -67,7 +67,7 @@ $$
 $$
 To show the closure of $$L$$, consider $${\Lambda}_1, {\Lambda}_2 \in L$$ and observe that 
 $$
-(\Lambda}_1 {\Lambda}_2)^T G {\Lambda}_1 {\Lambda}_2 = ({\Lambda}_2)^T ({\Lambda}_1)^T G {\Lambda}_1 {\Lambda}_2 = G.
+({\Lambda}_1 {\Lambda}_2)^T G {\Lambda}_1 {\Lambda}_2 = ({\Lambda}_2)^T ({\Lambda}_1)^T G {\Lambda}_1 {\Lambda}_2 = G.
 $$
 Finally, combining identity, inverse and closure with the fact that matrix multiplication is associative, we can conclude that the Lorentz transformations form a group $$L$$.
 
