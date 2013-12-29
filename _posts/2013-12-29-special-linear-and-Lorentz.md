@@ -54,9 +54,9 @@ G =
 	\right).
 $$
 
-Now, we will use this new definition of the Lorentz transformations to show that the set of all Lorentz transformations, denoted $$ L $$ forms a group with standard matrix multiplication as their binary operation. First, we need to show that $$L$$ has an identity element. The natural choice is the $$ 4 \times 4 $$ identity matrix, $$ \mathbb{I}_4 $$. To see that $$ \mathbb{I}_4 \in L$$, simply observe that 
+Now, we will use this new definition of the Lorentz transformations to show that the set of all Lorentz transformations, denoted $$ L $$ forms a group with standard matrix multiplication as their binary operation. First, we need to show that $$L$$ has an identity element. The natural choice is the $$ 4 \times 4 $$ identity matrix, $$ \mathbf{I}_4 $$. To see that $$ \mathbf{I}_4 \in L$$, simply observe that 
 $$
-\mathbb{I} ^T G \mathbb{I} = \mathbb{I} G \mathbb{I} = \mathbb{I} G = G.
+\mathbf{I} ^T G \mathbf{I} = \mathbf{I} G \mathbf{I} = \mathbf{I} G = G.
 $$
 The next step is to show that each $$ \Lambda \in L $$ has its own inverse element which is itself a member of $$ L $$. We first show that such an inverse exists. Since $$ \Lambda in L $$, we know that $$ {\Lambda} ^T G  \Lambda = G $$. Taking the determinant of both sides, we quickly see that 
 $$
