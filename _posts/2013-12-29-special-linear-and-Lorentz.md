@@ -25,11 +25,11 @@ Finally, we already know that standard matrix multiplication is associative. Thu
 
 The Lorentz group is the group composed of Lorentz transformations under the standard matrix multiplication. What are the Lorentz transformations? In a sentence, we could say that they are those linear transformations on the four-vectors of Minkowski space which preserve the Lorentz metric. But since that definition is a bit of mouthful, let's break it down into chunks. Minkowski space, denoted $$ \mathbb{M} $$, is the usual four-dimensional vector space $$ \mathbb{R}^4 $$ endowed with a particular metric called the Lorentz metric. For any vector $$ A^{\mu} = (A^0, A^1, A^2, A^3) \in \mathbb{M} $$, where the superscripts denote which components we're working with, the Lorentz metric is given by 
 $$
-||A||^2 = (A^0)^2 - (A^1)^2 -(A^2)^2 -(A^3)^2.
+||A||^2 = A^0 A^0 - \vec{A} \cdot \vec{A} = A^0 A^0 - A^1 A^1 -A^2 A^2 -A^3 A^3
 $$
 Notice that we're using tensor notation here. This is a convenient way to go about things since our metric has a few nasty minus signs in it. We can deal with these in an elegant fashion by introducing the following subscript notation:
 $$ 
-A_0 = A^0 \quad A_i = -A^i, i = 1, 2, 3,
+A_0 = A^0 \quad A_i = -A^i \text{for} i = 1, 2, 3,
 $$
 so that 
 $$
