@@ -43,15 +43,13 @@ $$
 $$
 where 
 $$
-
 \begin{align}
 & G = \left( \begin{array}{c c c c}
-		1 &  0 &  0 &  0 \\
-		0 & -1 &  0 &  0 \\
-		0 & 0  & -1 &  0 \\
-		0 & 0  &  0 & -1 
-		\end{array}
-	\right)
+1 &  0 &  0 &  0 \\
+0 & -1 &  0 &  0 \\
+0 &  0 & -1 &  0 \\
+0 &  0 &  0 & -1 
+\end{array} \right)
 \end{align}
 $$
 
