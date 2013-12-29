@@ -43,8 +43,9 @@ $$
 $$
 where 
 $$
-G = 
+
 \begin{align*}
+& G = 
 	\left(
 		\begin{array}{c c c c}
 		1 &  0 &  0 &  0 \\
