@@ -59,13 +59,13 @@ The next step is to show that each $$ \Lambda \in L $$ has its own inverse eleme
 $$
 -1 = \det G = \det {\Lambda}^T G \Lambda = - \det {\Lambda} ^T \det \Lambda = - \left( \det \Lambda \right) ^2. 
 $$
-From this statement, we can conclude that the determinant of any $$ \Lambda \in L $$ must be non-zero, and thus has an inverse element. To show that this inverse element is in $$ L $$, we again start with $$ {\Lambda} ^T G \Lambda = G $$. Left-multiplying this equation by $$ \left( {\Lambda}^{-1} \right) ^T $$ and right-multiplying by $$ {\Lambda}^{-1} $$ gives us 
+From this statement, we can conclude that the determinant of any $$ \Lambda \in L $$ must be non-zero, and thus has an inverse element. To show that this inverse element is in $$ L $$, we again start with $$ {\Lambda} ^T G \Lambda = G $$. Left-multiplying both sides of this equation by $$ \left( {\Lambda}^{-1} \right) ^T $$ and right-multiplying by $$ {\Lambda}^{-1} $$ gives us 
 $$
-\left( {\Lambda}^{-1} \right) ^T G {\Lambda}^{-1} = G.
+\left( {\Lambda}^{-1} \right) ^T G {\Lambda}^{-1} =  \left( {\Lambda}^{-1} \right) ^T {\Lambda} ^T G \Lambda {\Lambda}^{-1} = \left( \Lambda {\Lambda}^{-1} \right) G \Lambda {\Lambda}^{-1} = G
 $$
 To show the closure of $$ L $$, consider $$ \Lambda, \Gamma \in L$$ and observe that 
 $$
-(\Lambda \Gamma)^T G \Lambda \Gamma = \Gamma^T \Lambda^T G \Lambda \Gamma = G.
+(\Lambda \Gamma)^T G \Lambda \Gamma = \Gamma^T \Lambda^T G \Lambda \Gamma = \Gamma^T G \Gamma = G.
 $$
 Finally, combining identity, inverse and closure with the fact that matrix multiplication is associative, we can conclude that the Lorentz transformations form a group $$L$$.
 
