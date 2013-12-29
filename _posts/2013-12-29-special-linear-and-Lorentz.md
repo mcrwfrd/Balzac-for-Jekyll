@@ -43,12 +43,20 @@ $$
 $$
 where 
 $$
-G = \begin{pmatrix}
-1 &  0 &  0 &  0 \\
-0 & -1 &  0 &  0 \\
-0 &  0 & -1 &  0 \\
-0 &  0 &  0 & -1 
-\end{pmatrix}
+\begin{align*}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}
 $$
 
 Now, we will use this new definition of the Lorentz transformations to show that the set of all Lorentz transformations, denoted $$ L $$ forms a group with standard matrix multiplication as their binary operation. First, we need to show that $$L$$ has an identity element. The natural choice is the $$ 4 \times 4 $$ identity matrix, $$ I_4 $$. To see that $$ I_4 \in L $$, simply observe that 
@@ -67,7 +75,7 @@ To show the closure of $$ L $$, consider $$ \Lambda, \Gamma \in L$$ and observe 
 $$
 (\Lambda \Gamma)^T G \Lambda \Gamma = \Gamma^T \Lambda^T G \Lambda \Gamma = \Gamma^T G \Gamma = G.
 $$
-Finally, combining identity, inverse and closure with the fact that matrix multiplication is associative, we can conclude that the Lorentz transformations form a group $$L$$.
+Finally, combining identity, inverse and closure with the fact that matrix multiplication is associative, we can conclude that the Lorentz transformations form a group.
 
 
 
