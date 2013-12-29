@@ -3,7 +3,7 @@ layout: post-light-feature
 title: Relationships between the special linear group and the Lorentz group
 description: "We’ll introduce both the 2 x 2 special linear group and the Lorentz group. We'll also show some close relationships between between these two groups which have important physical implications."
 categories: articles
-date: 2013-08-17
+date: 2013-12-29
 image: 
         feature: soft-trees.jpg
 published: true
@@ -22,6 +22,10 @@ $$
 Finally, we already know that standard matrix multiplication is associative. Thus, we conclude that $$ SL(2, \mathbb{C})$$ forms a group under matrix multiplication. 
 
 ### The Lorentz Group
+
+
+
+
 
 ### The Homomorphism
 
