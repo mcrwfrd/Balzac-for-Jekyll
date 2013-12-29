@@ -39,7 +39,7 @@ Now, we can make use of this notation in order to translate the idea that the Lo
 
 After adding a few steps, we can use this notation to see that the Lorentz transformations are really just those linear transformations $$ \Lambda $$ which satisfy the equation 
 $$
-{\Lambda}^T G \Lambda = G,
+{\Lambda} ^T G \Lambda = G,
 $$
 where 
 $$
@@ -54,17 +54,17 @@ G =
 	\right).
 $$
 
-Now, we will use this new definition of the Lorentz transformations to show that the set of all Lorentz transformations, denoted $$L$$ forms a group with standard matrix multiplication as their binary operation. First, we need to show that $$L$$ has an identity element. The natural choice is the $$ 4 \times 4 $$ identity matrix, $$ \mathbb{I}_4 $$. To see that $$ \mathbb{I}_4 \in L$$, simply observe that 
+Now, we will use this new definition of the Lorentz transformations to show that the set of all Lorentz transformations, denoted $$ L $$ forms a group with standard matrix multiplication as their binary operation. First, we need to show that $$L$$ has an identity element. The natural choice is the $$ 4 \times 4 $$ identity matrix, $$ \mathbb{I}_4 $$. To see that $$ \mathbb{I}_4 \in L$$, simply observe that 
 $$
-\mathbb{I}^TG\mathbb{I} = \mathbb{I}G\mathbb{I} = \mathbb{I}G = G.
+\mathbb{I} ^T G \mathbb{I} = \mathbb{I} G \mathbb{I} = \mathbb{I} G = G.
 $$
-The next step is to show that each $$ \Lambda \in L $$ has its own inverse element which is itself a member of $$ L $$. We first show that such an inverse exists. Since $$ \Lambda in L $$, we know that $$ {\Lambda}^TG \Lambda = G $$. Taking the determinant of both sides, we quickly see that 
+The next step is to show that each $$ \Lambda \in L $$ has its own inverse element which is itself a member of $$ L $$. We first show that such an inverse exists. Since $$ \Lambda in L $$, we know that $$ {\Lambda} ^T G  \Lambda = G $$. Taking the determinant of both sides, we quickly see that 
 $$
--1 = \det G = \det {\Lambda}^TG \Lambda = - \cdot \det {\Lambda}^T \det \Lambda = -\left( \det \Lambda \right)^2. 
+-1 = \det G = \det {\Lambda}^T G \Lambda = - \cdot \det {\Lambda} ^T \det \Lambda = - \left( \det \Lambda \right) ^2. 
 $$
-From this statement, we can conclude that the determinant of any $$ \Lambda in L $$ must be non-zero, and thus has an inverse element. To show that this inverse element is in $$ L $$, we again start with $$ {\Lambda}^TG \Lambda = G $$. Left-multiplying this equation by $$ {{\Lambda}^{-1}}^T $$ and right-multiplying by $$ {\Lambda}^{-1} $$ gives us 
+From this statement, we can conclude that the determinant of any $$ \Lambda in L $$ must be non-zero, and thus has an inverse element. To show that this inverse element is in $$ L $$, we again start with $$ {\Lambda} ^T G \Lambda = G $$. Left-multiplying this equation by $$ \left( {\Lambda}^{-1} \right) ^T $$ and right-multiplying by $$ {\Lambda}^{-1} $$ gives us 
 $$
-{{\Lambda}^{-1}}^T G {\Lambda}^{-1} = G.
+\left( {\Lambda}^{-1} \right) ^T G {\Lambda}^{-1} = G.
 $$
 To show the closure of $$ L $$, consider $$ \Lambda, \Gamma \in L$$ and observe that 
 $$
