@@ -33,7 +33,11 @@ A_0 = A^0 \quad \text{and} \quad A_i = -A^i \quad \text{for} \quad i = 1, 2, 3,
 $$
 so that 
 $$
-||A||^2 = A^0 A^0 - A^1A^1 - A^2 A^2 - A^3 A^3 = A^0 A_0 + A^1 A_1 + A^2 A_2 + A^3 A_3  = A^{\mu} A_{\mu} 
+\begin{algin}
+||A||^2 &= A^0 A^0 - A^1A^1 - A^2 A^2 - A^3 A^3 \\
+&= A^0 A_0 + A^1 A_1 + A^2 A_2 + A^3 A_3  \\
+&= A^{\mu} A_{\mu} 
+\end{align}
 $$
 Now, we can make use of this notation in order to translate the idea that the Lorentz transformations preserve the Lorentz metric into something that we can manipulate mathematically. 
 
