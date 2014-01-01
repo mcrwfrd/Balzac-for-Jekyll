@@ -34,8 +34,8 @@ $$
 so that 
 $$
 \begin{align}
-||A||^2 &= A^0 A^0 - A^1A^1 - A^2 A^2 - A^3 A^3 \\
-&= A^0 A_0 + A^1 A_1 + A^2 A_2 + A^3 A_3  \\
+||A||^2 &= A^0 A^0 - A^1A^1 - A^2 A^2 - A^3 A^3 \newline
+&= A^0 A_0 + A^1 A_1 + A^2 A_2 + A^3 A_3  \newline
 &= A^{\mu} A_{\mu} 
 \end{align}
 $$
