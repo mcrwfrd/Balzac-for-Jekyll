@@ -47,15 +47,13 @@ $$
 $$
 where 
 $$ 
-\begin{align}
-G &=
-\left
+\begin{pmatrix}
 1 & 0 & 0 & 0 \newline
 0 & -1 & 0 & 0 \newline
 0 & 0 & -1 & 0 \newline
 0 & 0 & 0 & -1 
 \right)
-\end{align}
+\end{pmatrix}
 $$ 
 which is just the matrix associated with the metric tensor $$ g_{\mu \nu} $$.
 
