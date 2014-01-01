@@ -45,7 +45,16 @@ After adding a few steps, we can use this notation to see that the Lorentz trans
 $$
 {\Lambda} ^T G \Lambda = G,
 $$
-where $$ G $$ is just the matrix associated with the metric tensor $$ g_{\mu \nu} $$.
+where 
+$$ 
+G =
+\begin{array}{c c c c}
+1 & 0 & 0 & 0 \newline
+0 & -1 & 0 & 0 \newline
+0 & 0 & -1 & 0 \newline
+0 & 0 & 0 & -1 
+\end{array}
+$$ is just the matrix associated with the metric tensor $$ g_{\mu \nu} $$.
 
 Now, we will use this new definition of the Lorentz transformations to show that the set of all Lorentz transformations, denoted $$ L $$ forms a group with standard matrix multiplication as their binary operation. First, we need to show that $$L$$ has an identity element. The natural choice is the $$ 4 \times 4 $$ identity matrix, $$ I_4 $$. To see that $$ I_4 \in L $$, simply observe that 
 $$
