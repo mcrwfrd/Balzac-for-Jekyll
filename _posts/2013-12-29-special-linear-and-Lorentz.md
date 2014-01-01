@@ -52,7 +52,6 @@ $$
 0 & -1 & 0 & 0 \newline
 0 & 0 & -1 & 0 \newline
 0 & 0 & 0 & -1 
-\right)
 \end{pmatrix}
 $$ 
 which is just the matrix associated with the metric tensor $$ g_{\mu \nu} $$.
