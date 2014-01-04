@@ -6,4 +6,3 @@ image:
 feature: coverFigure.png
 ---
 
-Foo
