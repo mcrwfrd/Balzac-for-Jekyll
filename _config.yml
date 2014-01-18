@@ -23,8 +23,8 @@ owner:
 links:
   - title: About
     url: /about
-  - title: Blog
-    url: /blog
+  - title: Articles
+    url: /articles
   - title: Github
     url: https://github.com/mcrwfrd/mcrwfrd.github.io
     external: true
