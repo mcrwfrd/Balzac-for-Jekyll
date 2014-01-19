@@ -24,7 +24,7 @@ links:
   - title: About
     url: /about
   - title: Articles
-    url: /articles
+    url: /blog
   - title: Github
     url: https://github.com/mcrwfrd/mcrwfrd.github.io
     external: true
