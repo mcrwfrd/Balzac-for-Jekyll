@@ -1,5 +1,3 @@
-
-
 ---
 layout: blogHome
 permalink: /articles/index.html
