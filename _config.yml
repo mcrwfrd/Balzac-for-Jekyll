@@ -25,6 +25,8 @@ links:
     url: /about
   - title: Articles
     url: /articles
+  - title: CV
+    url: /cv.pdf
   - title: Github
     url: https://github.com/mcrwfrd/mcrwfrd.github.io
     external: true
