@@ -22,5 +22,11 @@ When I'm not working on one of the above subjects, I tend to dabble in areas suc
 ### Publications
 I am currently working on my first official academic publication which features the application of group theory and projective geometry in the world of quantum mechanical symmetries.  
 
+### Acknowledgements
+
+I would like to thank 
+*[Jaan Altosaar](https://jaan.io/) for guiding me through the process of setting up this website; and
+*[Cole Townsend](http://coletownsend.com/) for creating the beautiful [Balzac theme](http://jekyllthemes.org/themes/balzac/)
+
 
 
