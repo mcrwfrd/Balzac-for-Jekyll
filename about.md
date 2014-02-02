@@ -13,6 +13,8 @@ I am currently completing a joint Mathematics and Physics degree at McGill Unive
 
 When I'm not working on one of the above subjects, I tend to dabble in areas such as computer programming, machine learning, and artificial intelligence. While away from my desk, I can be found jogging, rock climbing, or socializing at one of Montreal's many beautiful cafes. 
 
+To get in touch with me, follow me on Twitter or send me an email. You can also view all of the code for this website on GitHub. 
+
 ## Events (past, present, and future)
 * [McGill Dobson Cup Startup Boot Camp](http://www.mcgill.ca/desautels/research/centres/dces/dobsoncup/businessplanstartupcamp)
 * [Seminars in Undergraduate Mathematics in Montreal 2014](http://summ.math.uqam.ca/?lang=en)
