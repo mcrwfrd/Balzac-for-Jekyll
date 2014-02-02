@@ -1,5 +1,5 @@
 ---
-layout: notesHome
+layout: blogHome
 permalink: /notes/index.html
 title: "Notes"
 description: Here I will post some notes. 
