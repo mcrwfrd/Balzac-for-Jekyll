@@ -16,7 +16,6 @@ When I'm not working on one of the above subjects, I tend to dabble in areas suc
 To get in touch with me, [follow me on Twitter](https://twitter.com/michaelcrwfrd) or [send me an email](mailto:michael.crawford@mail.mcgill.ca). You can also view all of the [code](https://github.com/mcrwfrd/mcrwfrd.github.io) for this website on GitHub. 
 
 ## Events (past, present, and future)
-* [McGill Dobson Cup Startup Boot Camp](http://www.mcgill.ca/desautels/research/centres/dces/dobsoncup/businessplanstartupcamp)
 * [Seminars in Undergraduate Mathematics in Montreal 2014](http://summ.math.uqam.ca/?lang=en)
 * [McGill Undergraduate Research Conference 2013](https://www.mcgill.ca/science/research/ours/urc/2013)
 * [McGill Undergraduate Research Conference 2012](http://www.mcgill.ca/science/research/ours/urc/2012)
