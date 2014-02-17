@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: The Mathematically Inclined Dirtbag
-description: "The beauty lies in the journey to that elusive balance."
+description: "The beauty lies in the journey to find that elusive balance."
 categories: articles
 date: 2014-02-17
 image: 
