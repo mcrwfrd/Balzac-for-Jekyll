@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: The Dirtbag Mathematician
+title: The Mathematically Inclined Dirtbag
 description: "The beauty lies in the journey to that elusive balance."
 categories: articles
 date: 2014-02-17
