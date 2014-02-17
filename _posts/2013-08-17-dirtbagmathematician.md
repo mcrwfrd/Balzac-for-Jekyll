@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: The Dirtbag Mathematician
-description: "We should always try to seek balance in life while keeping in mind that the perfect balance will always evade us. But finding that pefect balance is not the important part, it's the search that should inspire us."
+description: "The beauty lies in the journey to that elusive balance."
 categories: articles
 date: 2014-02-17
 image: 
