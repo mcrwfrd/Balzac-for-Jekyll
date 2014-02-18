@@ -26,7 +26,7 @@ I am currently working on my first official academic publication which features 
 
 ## Acknowledgements
 
-I would like to thank [Jaan Altosaar](https://jaan.io/), for guiding me through the process of setting up this website, and [Cole Townsend](http://coletownsend.com/), for creating the beautiful [Balzac theme](http://jekyllthemes.org/themes/balzac/).
+I would like to thank [Jaan Altosaar](https://twitter.com/thejaan), for guiding me through the process of setting up this website, and [Cole Townsend](https://twitter.com/twnsndco), for creating the beautiful [Balzac theme](http://jekyllthemes.org/themes/balzac/).
 
 
 
