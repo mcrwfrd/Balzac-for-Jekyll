@@ -8,13 +8,15 @@ image:
         feature: skiier.jpg
 published: true
 ---
+
+
+###Sample Section Heading
+
 Life is a bit of a balancing act. There will always be many different influences swaying us one way or another. Sometimes our motivation is a little too much, other times it's not quite enough. We also face new inspiration, concepts, and interests on a daily basis, and getting all of these things to line up just right usually seems like a logistical nightmare. As a result, we play a perpetual game of pushing the envelope in different areas of our lives, testing to see what we can get away with here and there, in an effort to eventually find that sacred balance. But we're never going to find that perfect balance. In fact, it's not the balance in the end that brings us joy and fulfillment, but the journey along the way.  
 
 My own balancing act usually involves my lust for mathematical rigour in one hand with an insatiable desire to ski, rock climb and [live the dirtbag lifestyle](http://climbinghouse.com/2012/03/dirtbag-explained.html) in the other, each interest vying for all of my time and attention. In an effort to reconcile these two life-consuming passions, I have learned things which I think anyone can apply to their own search for balance. Here I plan to share what I have learned from this quest so far.
 	
 A lot of it comes down to identity, oddly enough. Some days, the the balance has shifted way in favour of mathematics and suddenly I am inclined to become a world-renowned mathematician and forget everything else in the world. During these times, my lifestyle and the way in which I perceive my own identity tends to change. When I shape an image of myself in my mind, it becomes closely tied to my mathematical pursuits, meaning that I start to fulfill some of the stereotypes about mathematicians that I didn't associate with before. I become less capable in social settings and start acting way more nerdy than I actually am because I get wrapped up in the strong mathematical culture that exists in most university math departments. 
-
-###Sample Section Heading
 
 In contrast, there are times when the balance swings to the other extreme and I start to believe that I live only to "seek pow" and "ski heaps", and my identity changes again. I think that during the search for this elusive balance, our identity will change depending on where we decide to push the envelope, and it is important to just allow this transformation to take place instead of resisting it. As long as we don't start breaking the bank because our new identity requires new clothes or more than just the minimal gear required to pursue different passions, then having a fluid, ever-changing identity is not something to fight. It can actually be really fun to watch new identities unfold as our motivation tends towards different goals pertaining to different interests. 
 	
