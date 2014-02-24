@@ -14,7 +14,7 @@ My own balancing act usually involves my lust for mathematical rigour in one han
 	
 A lot of it comes down to identity, oddly enough. Some days, the the balance has shifted way in favour of mathematics and suddenly I am inclined to become a world-renowned mathematician and forget everything else in the world. During these times, my lifestyle and the way in which I perceive my own identity tends to change. When I shape an image of myself in my mind, it becomes closely tied to my mathematical pursuits, meaning that I start to fulfill some of the stereotypes about mathematicians that I didn't associate with before. I become less capable in social settings and start acting way more nerdy than I actually am because I get wrapped up in the strong mathematical culture that exists in most university math departments. 
 
-###Sample Section Heading
+##Sample Section Heading
 
 In contrast, there are times when the balance swings to the other extreme and I start to believe that I live only to "seek pow" and "ski heaps", and my identity changes again. I think that during the search for this elusive balance, our identity will change depending on where we decide to push the envelope, and it is important to just allow this transformation to take place instead of resisting it. As long as we don't start breaking the bank because our new identity requires new clothes or more than just the minimal gear required to pursue different passions, then having a fluid, ever-changing identity is not something to fight. It can actually be really fun to watch new identities unfold as our motivation tends towards different goals pertaining to different interests. 
 	
