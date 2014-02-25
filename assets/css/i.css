@@ -439,6 +439,13 @@ header.site-header {
   width: 100%;
   z-index: 5000;
 }
+header.site-header2 {
+  padding: 20px 0;
+   border-bottom: 2px dotted rgba(168, 168, 168, 0.7);
+  position: relative;
+  width: 100%;
+  z-index: 5000;
+}
 header.site-header .wrap {
   max-width: 90vw;
 }
