@@ -144,7 +144,8 @@ p {
 }
 .intro2{
  font-size: 34px;
- /* font-weight: 700;
+ font-weight: 700;
+ /* 
  line-height: 100%;
  letter-spacing: 2px;*/
  text-transform: uppercase;
