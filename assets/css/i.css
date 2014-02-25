@@ -144,7 +144,8 @@ ul{
  letter-spacing: 2px;
  text-transform: uppercase;
  color: #3b3b3b;
- text-align: center;
+ text-align: left;
+ margin-left: 300px;
 }
 p {
   font-size: 22px;
