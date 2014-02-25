@@ -134,10 +134,10 @@ body {
 /* Meat
    ========================================================================== */
 
-ul{
+table{
   font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 }
-li {
+tr {
     margin-bottom: 20px;
 }
 .intro2{
