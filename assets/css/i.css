@@ -147,7 +147,8 @@ p {
  font-weight: 700;
  /* 
  line-height: 100%;
- letter-spacing: 2px;*/
+ */
+ letter-spacing: 2px;
  text-transform: uppercase;
  color: #1F07AB;
 }
