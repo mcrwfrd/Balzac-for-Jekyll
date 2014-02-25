@@ -144,7 +144,11 @@ p {
 }
 .intro2{
  font-size: 34px;
- line-height: 1.4em;
+ font-weight: 700;
+  line-height: 100%;
+  color: #1F07AB;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
 .post ul li {
   font-size: 22px;
