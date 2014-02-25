@@ -136,7 +136,6 @@ body {
 p {
   font-size: 22px;
   line-height: 33px;
-  font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 }
 
 .intro {
@@ -150,6 +149,7 @@ p {
  color: #1F07AB;
  letter-spacing: 2px;*/
  text-transform: uppercase;
+ font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 }
 .post ul li {
   font-size: 22px;
