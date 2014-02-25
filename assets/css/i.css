@@ -149,6 +149,7 @@ p {
  letter-spacing: 2px;
  text-transform: uppercase;
  color: #1F07AB;
+ text-align: center;
 }
 .post ul li {
   font-size: 22px;
