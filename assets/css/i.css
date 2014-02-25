@@ -146,10 +146,9 @@ p {
  font-size: 34px;
  /* font-weight: 700;
  line-height: 100%;
- color: #1F07AB;
  letter-spacing: 2px;*/
  text-transform: uppercase;
- font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+ color: #1F07AB;
 }
 .post ul li {
   font-size: 22px;
