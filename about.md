@@ -13,11 +13,10 @@ I am currently completing a joint Mathematics and Physics degree at McGill Unive
 
 When I'm not working on one of the above subjects, I tend to dabble in areas such as computer programming, machine learning, and artificial intelligence. While away from my desk, I can be found jogging, rock climbing, or socializing at one of Montreal's many beautiful cafes. 
 
-## <center><a href="https://twitter.com/thejaan" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></center>
+## <center><a href="https://twitter.com/thejaan" target="_blank"><i class="icon-twitter-sign"></i></a>       
+  <a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i></a></center>
 
-## <center><a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a></center>
-
-## <center><a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i> GitHub</a></center>
+## <center><a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i></a></center>
 
 
 
