@@ -15,7 +15,7 @@ When I'm not working on one of the above subjects, I tend to dabble in areas suc
 ## <center><a href="https://twitter.com/michaelcrwfrd"><i class="fa fa-twitter"></i></a>                                        <a href="https://github.com/mcrwfrd/mcrwfrd.github.io"><i class="fa fa-github-square"></i></a></center>
 ***
 
-#Events
+###Events
 * [Seminars in Undergraduate Mathematics in Montreal 2014](http://summ.math.uqam.ca/?lang=en)
 * [McGill Undergraduate Research Conference 2013](https://www.mcgill.ca/science/research/ours/urc/2013)
 * [McGill Undergraduate Research Conference 2012](http://www.mcgill.ca/science/research/ours/urc/2012)
