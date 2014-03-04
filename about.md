@@ -8,7 +8,7 @@ image: cliffordTorus.png
 feature: 
 ---
 ***
-I am currently completing a joint Mathematics and Physics degree at McGill University in Montreal, Canada. My interested is especially piqued by areas in mathematical physics such as group theory, quantum mechanics, topology and complex analysis.
+I am currently completing a joint Mathematics and Physics degree at McGill University in Montreal, Canada. My interested is especially piqued by areas in mathematical physics such as group theory, quantum mechanics and topology.
 
 I like to teach myself things outside of school by reading and practising. Lately I've been learning about computer programming and creative writing. 
 
