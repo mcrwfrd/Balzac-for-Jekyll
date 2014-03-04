@@ -15,18 +15,18 @@ When I'm not working on one of the above subjects, I tend to dabble in areas suc
 ## <center><a href="https://twitter.com/michaelcrwfrd"><i class="fa fa-twitter"></i></a>                                        <a href="https://github.com/mcrwfrd/mcrwfrd.github.io"><i class="fa fa-github-square"></i></a></center>
 ***
 
-Events (past, present, and future)
+#Events (past, present, and future)
 * [Seminars in Undergraduate Mathematics in Montreal 2014](http://summ.math.uqam.ca/?lang=en)
 * [McGill Undergraduate Research Conference 2013](https://www.mcgill.ca/science/research/ours/urc/2013)
 * [McGill Undergraduate Research Conference 2012](http://www.mcgill.ca/science/research/ours/urc/2012)
 * [National Integrative Research Conference 2012](http://www.nircmcgill.com/2012.php)
 
 ***
-Publications
+#Publications
 I am currently working on my first official academic publication which features the application of group theory and projective geometry in the world of quantum mechanical symmetries.  
 
 ***
-Acknowledgements
+#Acknowledgements
 
 I would like to thank [Jaan Altosaar](https://twitter.com/thejaan), for guiding me through the process of setting up this website, and [Cole Townsend](https://twitter.com/twnsndco), for creating the beautiful [Balzac theme](http://jekyllthemes.org/themes/balzac/).
 
