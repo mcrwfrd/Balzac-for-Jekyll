@@ -13,7 +13,7 @@ I am currently completing a joint Mathematics and Physics degree at McGill Unive
 
 When I'm not working on one of the above subjects, I tend to dabble in areas such as computer programming, machine learning, and artificial intelligence. While away from my desk, I can be found jogging, rock climbing, or socializing at one of Montreal's many beautiful cafes. 
 
-To get in touch with me, [follow me on Twitter](https://twitter.com/michaelcrwfrd) or [send me an email](mailto:michael.crawford@mail.mcgill.ca). You can also view all of the [code](https://github.com/mcrwfrd/mcrwfrd.github.io) for this website on GitHub. 
+ [twitter](https://twitter.com/michaelcrwfrd)|[email](mailto:michael.crawford@mail.mcgill.ca)|[GitHub](https://github.com/mcrwfrd/mcrwfrd.github.io)|[CV](http://crawford.io/cv)
 
 ## Events (past, present, and future)
 * [Seminars in Undergraduate Mathematics in Montreal 2014](http://summ.math.uqam.ca/?lang=en)
