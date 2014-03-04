@@ -27,13 +27,23 @@ Don't give into stereotypes:
 -in fact, your profession doesn't define you
 -the problem with mathematics is that it also consumes you - its kinda hard to just do it for 8 hours a day and forget about it - people only do it because they really love it
 
-Mathematicians and physicists tend to get a bad wrap in the real world. For whatever reason, they have received the blanket descriptions of "socially awkward", "bad dressers", "horrible at fashion", "unable to speak", or generally nerdy, and I would say that some mathematicians and physicists fully accept this description. In fact, in my experience, sometimes other members of this community judge your skill in your discipline based on how well you fit these descriptions. 
 
+***
+
+Mathematicians and physicists tend to get a bad wrap from people who have never been in involved in the math or physics community. For whatever reason, they have received the blanket descriptions of "socially awkward", "bad dressers", "horrible at fashion", "unable to speak", or generally nerdy, and I would say that some mathematicians and physicists fully accept this description. In fact, in my experience, sometimes other members of this community judge your skill in your discipline based on how well you fit these descriptions. In fact, on numerous occations I have heard my peers in these communities directly assume that someone was not as capable because they were well-dressed and well-spoken. 
+
+
+<!--
 Q: Is that guy good at math?
 
 A: Naw, way to fashionable. Probably spends too much time shopping to really get a grasp on the material.
 
+
 I've heard those exact words come from the mouths of some of my peers in the physics department. And its not like they can help it - its kind of engrained in them from the very beginning. 
+
+-->
+
+But it turns out that the way you dress and the way you speak has little impact on your ability to lay out on paper a mathematical proof. In fact, mathematics is such an individual thing that pretty much nothing outside of the way in whcih you think can tell a person how good you are at mathematics. The clothes on your body and your thoughts on mathematics are just completely unrelated. In fact, contrary to my peers' notions that fashion means inability in mathematics turns out to be completely wrong. As seen here, mathematics and fashion can work in perfact harmony. 
 
 I would like to argue that this is pure nonsense. In order to be good at what you do, you do not, in any way, need to fit the description of the stereotype of your discipline. In other words, who you are, inside and out, does not need to define how good you are at your job. 
 
@@ -43,5 +53,8 @@ If you truly follow your passion, then the way that you think will define what y
 
 That's not to say that you're not allowed to enjoy what you do. Indeed, the only way to be a full-time mathematician is to truly love it - there's not much more incentive to do it. 
 
+Same thing with climbing. It's a little more subtle, but sometimes we judge a a dude's climbing ability based on how he looks when he walks into the gym. Does he have the goose-down patagonia jacket, those climbings-specific pants, that [sexy climbing hair](http://thestonemind.com/2014/01/07/six-steps-for-that-sexy-climber-hair/), etc. But none of it means anything about the dude's climbing abilitiy, really. I've lost track of the number of times that a really anuassuming person has walked into the gym who I would have judged to be a beginner climber based on the above gauges, and climbs a route harder than anything that I've ever even attempted. 
+
+Its a nice reminder, really. I love the purity of the idea that it doesn't matter how you look or what you do when you're not climbing, you can still be an unreal climber if you dedicate enough time to it. I think this applies to most (if not all) other interests or discplines out there. You simply can't gauge someones ability at something without actually watching them do it. 
 
 
