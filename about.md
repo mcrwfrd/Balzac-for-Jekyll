@@ -12,9 +12,9 @@ I am currently completing a joint Mathematics and Physics degree at McGill Unive
 
 I like to teach myself things outside of school by reading and practising. Lately I've been learning about computer programming and creative writing. 
 
-While away from my desk, I can be found skiing, trail running, rock climbing, or socializing at one of Montreal's many beautiful cafes. 
+While away from my desk, I can be found skiing, trail running, rock climbing, or socializing at one of Montreal's many beautiful cafes. Feel free to contact me if you would like to join me in any of these activities.
 
-## <center><a href="https://twitter.com/michaelcrwfrd"><i class="fa fa-twitter"></i></a> <a href="https://github.com/mcrwfrd/mcrwfrd.github.io"><i class="fa fa-github-square"></i></a></center>
+## <center><a href="https://twitter.com/michaelcrwfrd"><i class="fa fa-twitter"></i></a> <a href="mailto:mcrwfrd@gmail.com"><i class="fa fa-envelope"></i></a></center>
 
 ***
 
