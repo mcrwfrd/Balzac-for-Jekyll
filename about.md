@@ -16,6 +16,11 @@ When I'm not working on one of the above subjects, I tend to dabble in areas suc
 
 
 
+
+
+
+
+
 ## Events (past, present, and future)
 * [Seminars in Undergraduate Mathematics in Montreal 2014](http://summ.math.uqam.ca/?lang=en)
 * [McGill Undergraduate Research Conference 2013](https://www.mcgill.ca/science/research/ours/urc/2013)
