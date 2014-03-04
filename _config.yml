@@ -27,8 +27,8 @@ links:
     url: /articles
   - title: Notes
     url: /notes
-  - title: CV
-    url: /cv.pdf
+  #- title: CV
+   # url: /cv.pdf
   - title: Twitter
     url: https://twitter.com/michaelcrwfrd
     external: true
