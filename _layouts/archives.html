@@ -4,7 +4,19 @@
         <section class="article archive">
           <article class="archive-wrap">
               <ol class="post-list">
-                 <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
+                <!-- <lh><h2><span class="bb">{{ page.title }}</span></h2></lh> -->
+                 {% for post in site.posts %}
+                  <table class="intro2" style="width:600px">
+                    <tr>
+                     <td height="40px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%Y" }}</time> </td> 
+                     <td height="40px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d" }}</time></td>
+                     <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
+                    </tr>
+                  </table>
+                 {% endfor %}
+                 
+                 
+                 <!--
                   {% for post in site.posts %}
                   <li>
                     <div class="intro 2" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
@@ -15,6 +27,7 @@
                   </li>
                   {% endfor %}
               </ol>
+              -->
           </article>
         </section>
     </div>
