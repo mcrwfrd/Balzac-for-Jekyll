@@ -7,8 +7,14 @@
                  {% for post in site.posts %}
                   <table class="intro2" style="width:900px">
                     <tr>
-                     <td height="40px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%Y" }}</time> </td> 
-                     <td height="40px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d" }}</time></td>
+                        <td height="80px">Arcives</td>
+                    </tr>
+                    <tr>
+                        <td height="40px">2014</td>
+                    </tr>
+                    <tr>
+                     <!-- <td height="40px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%Y" }}</time> </td>  -->
+                     <td height="20px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d" }}</time></td>
                      <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
                     </tr>
                   </table>
