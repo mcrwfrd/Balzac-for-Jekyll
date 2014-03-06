@@ -14,8 +14,8 @@
             </tr>
             {% for post in site.posts limit:3 %}
             <tr>
-             <td><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></td>
-             <td>Title Here</td>
+             <td><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d" }}</time></td>
+             <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
             </tr>
             {% endfor %}
             </table>
