@@ -1,7 +1,7 @@
 ---
 layout: archives
 permalink: /archives/index.html
-title: 
+title: archives
 description: 
 tags: [michael crawford, about, physics, mathematics]
 image: 
