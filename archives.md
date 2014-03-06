@@ -1,6 +1,6 @@
 ---
 layout: archives
-permalink: /about/index.html
+permalink: /archives/index.html
 title: 
 description: 
 tags: [michael crawford, about, physics, mathematics]
