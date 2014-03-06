@@ -19,7 +19,7 @@
                     <tr>
                      <!-- <td height="40px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%Y" }}</time> </td>  -->
                      <td height="20px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d" }}</time></td>
-                     <td align="centre"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
+                     <td align="center"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
                     </tr>
                   </table>
                  {% endfor %}
