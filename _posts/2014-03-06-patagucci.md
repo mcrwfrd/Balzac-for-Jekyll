@@ -45,5 +45,6 @@ for example, [here's](http://www.outdoorgearlab.com/Down-Jacket-Reviews) outdoor
 http://greenoutdoorgear.wordpress.com
 http://www.sustainablebrands.com/news_and_views/articles/dont-buy-jacket-lessons-successful-values-marketing
 http://epi.yale.edu/indicators-in-practice/higg-index-sustainable-apparel
+http://www.brainsnotbrawn.com/2010/03/patagonia-becomes-patagucci.html
 
 Here's a good idea. What if outdoor companies could join forces, set aside money that contributes to sustainability in this way, and form a governing board that decides what each campaign will be? Becuase environmentalism shouldnt be a factor that can contribute to your branding, eventually it should just be a standard way in which companies across the board should operate. Does this exist somewhere?
