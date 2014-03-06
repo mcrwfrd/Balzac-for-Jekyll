@@ -6,26 +6,9 @@
         <section class="article archive">
           <article class="archive-wrap">
           <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
-          <!--
-          <div style="margin-top:50px">
-            <table class="intro2" style="width:600px">
-            <tr>
-             <td></td>
-            </tr>
-            <tr>
-             <td height="40px" style="center">2014</td>
-            </tr>
-            {% for post in site.posts %}
-            <tr>
-             <td><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d" }}</time></td>
-             <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
-            </tr>
-            {% endfor %}
-            </table>
-           </div>
-           -->
+ 
            
-          <div style="margin-top:50px">
+          <div style="margin-top:50px" style="margin-left:50px">
          {% for post in site.posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
