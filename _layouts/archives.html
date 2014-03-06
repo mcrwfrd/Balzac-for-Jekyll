@@ -9,6 +9,7 @@
  
            
           <div style="margin-top:50px" style="margin-left:50px">
+          <div  style="margin-left:50px">
          {% for post in site.posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
@@ -40,6 +41,7 @@
         {% endif %}
     {% endif %}
 {% endfor %}
+            </div>
             </div>
           </article>
          </section>
