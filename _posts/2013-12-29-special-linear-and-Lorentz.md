@@ -6,7 +6,7 @@ categories: articles
 date: 2013-12-29
 image: 
         feature: soft-trees.jpg
-published: true
+published: false
 ---
 
 ### The $$ 2 \times 2 $$ Special Linear Group
