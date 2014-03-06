@@ -5,26 +5,24 @@
           <article class="archive-wrap">
                 <!-- <lh><h2><span class="bb">{{ page.title }}</span></h2></lh> -->
                  
-                  <table class="intro2" style="width:900px">
-                  
-                    <tr>
-                        <td height="80px">Archives</td>
+                  <table class="intro2">
+                  <tr>
+                        <td height="80px" style="center">Archives</td>
                     </tr>
                     <tr>
-                        <td height="40px">2014</td>
+                        <td height="40px" style="center">2014</td>
                     </tr>
                     </table>
+                    
                     {% for post in site.posts %}
-                    <!-- <table class="intro2" style="width:900px"> -->
-                    <table class="intro2">
-                    {% for post in site.posts %}
-                    <tr>
-                     <!-- <td height="40px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%Y" }}</time> </td>  -->
+                    <p class="intro2"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d" }}</time></p>
+                    {% endfor %}
+                     <!-- <td height="40px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%Y" }}</time> </td>  
                      <td height="20px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d" }}</time></td>
                      <td align="left"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
                     </tr>
-                    </table>
-                 {% endfor %}
+                    </p>-->
+              
                   
                  
                  
