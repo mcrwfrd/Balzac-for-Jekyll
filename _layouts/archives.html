@@ -12,10 +12,12 @@
             <tr>
              <td height="40px">2014</td>
             </tr>
+            {% for post in site.posts limit:3 %}
             <tr>
-             <td>Date Here</td>
+             <td><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></td>
              <td>Title Here</td>
             </tr>
+            {% endfor %}
             </table>
            <!-- <img border="0" src="/images/coverFigure.png" alt="Octahedron" class="left" width="200" height="200"> -->
           </article>
