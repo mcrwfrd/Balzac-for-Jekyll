@@ -1,44 +1,46 @@
-{% include head-dark.html %}
+ {% include head-home.html %}
+ <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+
 
     <div id='bump'>
         <section class="article archive">
           <article class="archive-wrap">
             <table class="intro2" style="width:600px">
-                <tr>
-                    <td height="80px" style="center">Archives</td>
-                </tr>
-                <tr>
-                    <td height="40px" style="center">2014</td>
-                </tr>
-            </table>
+            <tr>
+             <td height="80px">Michael Crawford</td>
+             <td height="80px"><a href="https://twitter.com/michaelcrwfrd"><i class="fa fa-twitter"></i></a><a href="mailto:mcrwfrd@gmail.com"><i class="fa fa-envelope"></i></a></td>
+            </tr>
+             <tr>
+              <td height="40px">studies:</td> 
+              <td height="40px">mathematics, physics</td>
+             </tr>
+             <tr>
+              <td height="40px">projects:</td>
+              <td height="40px"><a href="{{ site.url }}/notes">notes</a> on math and physics</td>
+             </tr>
+             <tr>
+              <td height="40px">interests:</td>
+              <td height="40px"><a href="{{ site.url }}/articles">writing</a>, skiing, rock climbing</td>
+             </tr>
+             <tr>
+              <td height="40px">more:</td>
+              <td height="40px"><a href="{{ site.url }}/about">about me</a>, <a href="{{ site.url }}/cv.pdf">cv</a></td>
+             </tr>
+             </table>
+           <!-- <img border="0" src="/images/coverFigure.png" alt="Octahedron" class="left" width="200" height="200"> -->
           </article>
-        </section>
-    </div>
+         </section>
+     </div>
+
+    
+
+
 
 {% include footerHome.html %}
                     
                    
                 
                    
-                     <!-- <td height="40px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%Y" }}</time> </td>  
-                     <td height="20px"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d" }}</time></td>
-                     <td align="left"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td>
-                    </tr>
-                    </p>-->
-              
                   
-                 
-                 
-                 <!--
-                  {% for post in site.posts %}
-                  <li>
-                    <div class="intro 2" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-                        <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
-                        <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
-                        <p class="">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-                    </div>
-                  </li>
-                  {% endfor %}
-              </ol>
-              -->
        
