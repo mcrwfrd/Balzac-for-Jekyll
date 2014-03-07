@@ -584,10 +584,10 @@ header.site-header nav ul li a:hover {
 }
 .article .featured-image {
   vertical-align: middle;
-  min-height: 360px;
+  min-height: 400px;
   height: 50vh;
   width: 100%;
-  max-height: 360px;
+  max-height: 400px;
   background-position: center center;
   background-size: cover;
   vertical-align: middle;
