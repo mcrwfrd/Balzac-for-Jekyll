@@ -48,3 +48,25 @@ http://epi.yale.edu/indicators-in-practice/higg-index-sustainable-apparel
 http://www.brainsnotbrawn.com/2010/03/patagonia-becomes-patagucci.html
 
 Here's a good idea. What if outdoor companies could join forces, set aside money that contributes to sustainability in this way, and form a governing board that decides what each campaign will be? Becuase environmentalism shouldnt be a factor that can contribute to your branding, eventually it should just be a standard way in which companies across the board should operate. Does this exist somewhere?
+
+I think by biggest criticism for the company is that they're sort of selling a lifestyle but they don't actually sell any gear - mostly clothing. Sure, its durable, but they're kind of selling a "poser" attitude. The fact of the matter is, you don't need anything that Patagonia sells in order to climb, ski, surf, fish, or trail run. In fact, almost nothing that they sell is gear that you actually need to do any of those things. You could get ourself entire outfits for those sports without even glancing at Patagonia. As an adventurer, they sell nothing that you need, and you don't actually need anything that they sell. And yet somehow they've targeted outdoorsy people. You definitely don't need to go climbing every weekend in order to be entitled to shop at patagonia, but if you do, then other people might think that you climb every weekend. Black diamond makes my tent, solomon my ski gear, petzl my rock hardware...
+
+From my perspective, its not about the gear. I'd like to tell myself that I don't care how I look when I'm doing things, but in the end, I actually do....
+
+A good rain coat does two things really well:
+1. Keeps you dry
+2. Lasts a long time
+
+A good goose-down jacket does two things really well:
+1. Keeps you really warm with light-weight material
+2. Lasts a long time. 
+
+This is what Patagonia's gear is all about. It's functional, it lasts a long time. That's also why its expensive. It's functional, and it last a long time, so hopefully you won't have to buy another one for the next 10 years - and their prices are also competitive. But it also looks pretty good, which is why a lot of people who equate a sunday hike with getting in touch with nature at the core. Yeah, a Sunday hike rejuvenates me if I'm stuck working in the city, but it's nothing compared to a canoe trip in Algonquin's interior. Why does it have to look good? If everyone had the mentality of Yvon, nobody would care how it looks. But the fact of the matter is, no matter how much we tell ourselves that it's just not about the gear, we care (at least just a little bit) about how we look when we're on our favourite adventures. A tiny part of all of us hopes that we look half as good as that funhogger in our favourite adventure movie. That's some powerful marketing. 
+
+I went skiing this past weekend for the first time in the season - late, I know, kind of embarassing. But I noticed something interesting that was more apparent skiing than it seemed to be at the climbing crag - everyone was super worried about their steeze. 
+
+
+
+
+
+So what the heck is my point? My point is: from the mouth of a peniless student and a wannabe ski bum, here's we its important to support one of the most expensive outdoor outfitters. 
