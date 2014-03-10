@@ -9,15 +9,6 @@ image:
 published: false
 ---
 
-POINTS *FOR* PATAGONIA
--literally told consumers not to buy their stuff if we don't need it
--they seem to be striving for a sustainable business model (but is it really?)
--putting the health of the environment and communities above making money (on the business side of things, its healthy to have a company which operates in this way as a roll model for other companies)
-POINTS *AGAINST* PATAGONIA
--their stuff is expensive
--their target consumer seems not to match what Yvon preaches
--in the end, it seems like they're just helping the people who can actually afford their stuff to support an ideal business model, but what about us mortals?
--
 
 -the reason they get called "patagucci" is because rich people buy their clothing just for the brand name so they can look stylish in their range rover on the way to the ski hill -> if people are buying your stuff for brand name recognition, that doesn't mean that your business model is fundamentally flawed, it means that you did a good job with branding and marketing. the patagucci stuff out there isn't trying to hurt the company, its mocking the people who go in just for the brand name recognition
 
@@ -69,4 +60,26 @@ I went skiing this past weekend for the first time in the season - late, I know,
 
 
 
-So what the heck is my point? My point is: from the mouth of a peniless student and a wannabe ski bum, here's we its important to support one of the most expensive outdoor outfitters. 
+So what the heck is my point? My point is: from the mouth of a peniless student and a wannabe ski bum, here's why its important to support one of the most expensive outdoor outfitters. 
+
+***
+
+Patagonia, the popular outdoor outfitting brand worn by climbing bums, rich college students and drivers of range rovers, has earned more attention than usual recently after urging their customers to refrain from buying things on black friday and naming Rose Marcario their President and CEO. In recent years Patagonia has backed the idea that the environment and social responsibility should take precedence over financial gain. With several projects on the go (Chouinard even spend over 1.3 M on their Patagonia Provisions project), this company is doing all of the right things in my mind (and they're still financially successful), so naturally, I became extremely skeptical. 
+
+In spite of their good efforts, the company has earned a bit of flack along with their praise. Specifically, I have heard two complains about the brand from a couple of different parties (I'm not sure if they're the same party of two different ones). 
+
+I know Patagonia is kind of abusing the image of being outdoorsy. They claim that the clothing they make is for the outdoorsy type, meanwhile the majority of their customers are yuppies seeking that perfect powder blue michelin man down jacket to get that "outdoorsy look" when their away from the office or college kids blowing their parents trust fund so that it at least looks like they're doing more than doddling around at Liberal Arts college trying to postpone real life. But the fact that people are willing to shell out $400.00 on a jacket with tech specs that they don't really need for floating around campus just tells me that Patagonia has done an excellent job with branding and marketing. 
+
+I suspect that these complaints are coming from idealist adventuring dirtbags who think being "hardcore" is about living out of a van and never buying good gear. They're offended that a piece of gear that they might actually need at the crag also attracts the above-mentioned crowds. They're thinking, "I'm just looking to simplify" and I just want a bloody rain coat, not something made out recycled plastic etc. 
+
+But here's why we need to care about what Patagonia is doing, whether we go home to a tent in Yosemite, a college dorm room, or a walk-up in NYC or San Fran, especially you, dirtbags. 
+
+Whether you're a skier 6 days a week, a weekend warrior, or only get to ski ones every few seasons, you should care about what Patagonia because they're one of the largest companies in the outdoor industry (of course, they're not the only one) who are really breaking ground in a new way. They're working extremely hard to preserve the nature that brought us to either love or hate their clothing in the first place. 
+
+Consider yourself in the position to buy a rain coat. Everyone needs a bloody rain coat. No matter how often you actually get to the crag, you need a rain coat. When you're looking for a rain coat, you're looking for a couple of different things, but above, you want it to keep the rain out, and you want it to last a long time. Of course, there are other factors to consider such as breathability, weight, packability, helmet compatibility and general comfort. But these all come out in the wash. If you're looking for a dependable coat that keeps the rain out and will last a long time, well, pretty much every outdoor outfitter from Marmot to North Face to Mountain Equipment co-op is making such a product, and Patagonia is right here with everyone else at a comparable price. So they're making a product that can be used by avid adventurers as well as literally anyone who might get caught in the rain, including that college freshman with a focus on long-lasting materials. On top of that, they're a socially responsible company who, as stated above, put a couple of things above making money on their priority list, which is a good number in my books. So even if their rain jacket is meets the same spec requirements as does the Marmot jacket or the North Face jacket and is $50 more, I'm going to pick the Patagonia jacket every time because they're helping everyone take responsibility for preserving the environment that brings us so much joy either thrice a season, every weekend, or 6 days a week. It's not about the fact that this one jacket was made from recycled plastic - its about choosing a company that is on the right tracks socially, environmentally and economically. 
+
+We need to support this company because their list of priorities as an organization sets the bar high for any other company looking to make money. The mission statement of patagonia should be the same for every other company out there. Its just the way it should be. 
+
+But still, I can't help but shake the fact that Yvon probably wouldn't be wearing patagonia gear if he were a 20-something trying to spend as much time climbing as possible. But my point is that a raincoat is going to be expensive no matter what, so you might as well opt for the company which helps us preserve the environment that we so adore.
+
+I think some of us just hate the thought that we dirtbags, the freest of them all, should have interest in a garment that Mr. or Mrs. Yuppie could find a use for. But we really should care.  
