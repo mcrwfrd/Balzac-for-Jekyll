@@ -1,0 +1,73 @@
+title:            Michael Crawford
+tagline:          
+description:      A professional blog about Mathematics, Physics, and related topics. 
+#Comment out url when working locally to resolve base urls correctly
+url: 
+
+# Owner/author information
+owner:
+  name:           Michael Crawford    
+  avatar:         avatar.png
+  bio:            "student, trail runner, writer, adventure-seeker"
+  email:          mcrwfrd@gmail.com
+  twitter:        michaelcrwfrd     
+  github:         mcrwfrd      
+  instagram:           
+  dribbble:       
+  disqus:         
+  # Plug in your disqus shortname!
+  
+#Categories
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: "/#about"
+  - title: Articles
+    url: /articles
+ # - title: Running
+ #   url: /running
+ # - title: Notes
+  #  url: /notes
+  #- title: CV
+   # url: /cv.pdf
+  #- title: Twitter
+   # url: https://twitter.com/michaelcrwfrd
+    #external: true
+  #- title: Cole Who?
+   # url: http://coletownsend.com
+    #external: true
+    
+social:
+  # - title: Tumblr
+   #  url: mcrwfrd.tumblr.com
+   #  external: true
+  # - title: Instagram
+   # url: http://instagram.com/michaelcrwfrd
+   # external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Montreal
+future:      true
+pygments:    true
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
