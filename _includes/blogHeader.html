@@ -43,37 +43,36 @@
 <!-- Load Modernizr -->
 <script src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
-<style type="text/css">
-  .centeredImage
-    {
-    text-align:center;
-    display:block;
-    position:fixed;
+    <style type="text/css">
+    body{
+    margin:0px;
+    background:#000;
     }
-</style>
-<!-- Icons -->
-<!-- 16x16 -->
-<link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
-
-<div id="bump">
-  <body class="">
-    <header class="site-header darken">
-      <div class="wrap">
-        <hgroup>
-          <h1><a href="/"> <i class="fa fa-home"></i> Michael Crawford</a></h1>
-        </hgroup>
-        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
-        <nav role="navigation">
-          <ul>
-            
-            
-            {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-            {% endfor %}
-
-          </ul>
-         
-        </nav>
-      </div>
-    </header>
- <center></center><img src="/images/BTS_LOGO.png" class="centeredImage" alt="image description" height="30%" width="50%"></center>
+    .header-cont {
+    width:100%;
+    position:fixed;
+    top:0px;
+    }
+    .header {
+    height:50px;
+    background:#F0F0F0;
+    border:1px solid #CCC;
+    width:960px;
+    margin:0px auto;
+    }
+    .content {
+    width:960px;
+    background: #F0F0F0;
+    border: 1px solid #CCC;
+    height: 2000px;
+    margin: 70px auto;
+    }
+    </style>
+    </head>
+    <body>
+     
+    <div class="header-cont">
+    <div></div>
+    </div>
+     
+    <div></div>
